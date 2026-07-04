@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 🎓 2nd-year **Computer Engineering** student at **GTU**
+- 🎓 **Computer Engineering** student at **GTU**
 - 🧠 Interested in **AI agents**, **LLM systems**, **distributed architectures**, and **embedded robotics**
 - 👨‍🏫 Helping out with **Python** sessions through **GDG on Campus GTU** & **QPREP**
 - 📫 Reach me through my website: **[tuguberk.dev](https://tuguberk.dev)**
